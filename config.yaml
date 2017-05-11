@@ -1,0 +1,10 @@
+types:
+        - a
+        - b
+
+typenames:
+        - A
+        - B
+
+extension:
+        .jpg
